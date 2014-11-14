@@ -1,0 +1,10 @@
+rootProject.name = 'eclipselink-jpa-multitenancy'
+
+include 'separate-database'
+
+include 'separate-schema'
+
+include 'discriminator-column'
+
+include 'common'
+
