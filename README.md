@@ -10,7 +10,7 @@ Multi-Tenancy Examples for JCConf 2014
 $ git clone https://github.com/phstudy/eclipselink-jpa-multitenancy.git
 ```
 
-### chage directory
+### change directory
 ```
 $ cd eclipselink-jpa-multitenancy
 ```
